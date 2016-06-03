@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75562260-BC86-451D-A214-A580D3A7F655</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Paging_ObjC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82E0A5242125C281C97190728C5D36269CAC38FA</key>
+		<string>https://bitbucket.org/oxdalton/ios_tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>handoff/Paging_ObjC/Paging_ObjC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82E0A5242125C281C97190728C5D36269CAC38FA</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/oxdalton/ios_tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82E0A5242125C281C97190728C5D36269CAC38FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82E0A5242125C281C97190728C5D36269CAC38FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TUTORIALS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
